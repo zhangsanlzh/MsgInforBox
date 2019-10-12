@@ -1,0 +1,7 @@
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\obj\Debug\MsgInforBox.MsgInforBoxControl.resources
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\obj\Debug\MsgInforBox.csproj.GenerateResource.cache
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\obj\Debug\MsgInforBox.csproj.CoreCompileInputs.cache
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\bin\Debug\MsgInforBox.dll
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\bin\Debug\MsgInforBox.pdb
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\obj\Debug\MsgInforBox.dll
+C:\Users\lzh\source\repos\WindowsFormsApp1\MsgInforBox\obj\Debug\MsgInforBox.pdb
